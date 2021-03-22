@@ -33,7 +33,7 @@ import com.graphhopper.routing.util.EncodingManager;
 import com.graphhopper.routing.util.FlagEncoderFactory;
 import com.graphhopper.routing.util.MountainBikeFlagEncoder;
 import com.graphhopper.routing.util.RacingBikeFlagEncoder;
-import com.graphhopper.routing.util.SahlEncoder;
+import com.graphhopper.routing.util.CustomEncoder;
 import com.graphhopper.util.CmdArgs;
 import com.graphhopper.util.Constants;
 import com.graphhopper.util.Helper;
